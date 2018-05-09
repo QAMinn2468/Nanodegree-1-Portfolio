@@ -14,7 +14,7 @@ body {
 
 #logo img {
   width: 15%;
-  -webkit-clip-path: circle(50% at 50% 50%);
+  -webkit-clip-path: circle(50% at 50% 50%); /* used http://bennettfeely.com/clippy/   to achieve circle. */
   clip-path: circle(50% at 50% 50%);
   position: absolute;
   right: 3.5%;
